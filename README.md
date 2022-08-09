@@ -1,0 +1,2 @@
+# veriyap-lar-vealgoritmalar
+projeler
