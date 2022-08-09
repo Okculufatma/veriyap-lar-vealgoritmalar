@@ -15,6 +15,7 @@ Proje-3
 
                              [7]
 * ikinci sayı (5) eklenir; 5<7 olduğu için soluna eklenir.
+                             
                              [7]
                                 
                          [5] 
