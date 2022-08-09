@@ -16,7 +16,7 @@ Proje-3
                              [7]
 * ikinci sayı (5) eklenir; 5<7 olduğu için soluna eklenir.
                              [7]
-                            /    
+                                
                          [5] 
 * Üçüncü sayı (1) eklenir; Root'tan küçük sola 1<5 olduğu için 5'in soluna eklenir.
                              [7]
@@ -92,7 +92,6 @@ Proje-3
 
 
 
-           |--|--|-  |- |- |- |- |- |- |- |- |
            |  |  |   |  |  |  | 7|  |  |  |  |  
            |  |  |   |  |  | /|  |\ |  |  |  | 
            |  |  |   |  | 5|  |  |  |8 |  |  | 
@@ -102,7 +101,7 @@ Proje-3
            | 0|  |   |  | 3|  |  |  |  |  |  |
            |  |  |   | /|  |\ |  |  |  |  |  |
            |  |  | 2 |  |  |  |4 |  |  |  |  |
-           |--|--|-  |- |- |- |- |- |- |- |- |
+
 
 
 [Patika.dev](https://www.patika.dev/tr)
