@@ -17,21 +17,24 @@ Proje-3
 * ikinci sayı (5) eklenir; 5<7 olduğu için soluna eklenir.
                              
                              [7]
-                                
+                            /    
                          [5] 
 * Üçüncü sayı (1) eklenir; Root'tan küçük sola 1<5 olduğu için 5'in soluna eklenir.
+                             
                              [7]
                             /    
                          [5]            
                        /                         
                     [1]
 * Dördüncü sayı (8) eklenir; Root yani 8>7 olduğu için; Root'un sağına eklenir.
-                             [7]
+                             
+                              [7]
                             /     \
                          [5]       [8]     
                        /                         
                     [1]
 * Beşinci sayı (3) eklenir; Root'tan küçük sola, 5'ten küçük tekrar sola; 3>1 olduğu için 1'in sağına eklenir.
+                              
                               [7]
                             /     \
                          [5]       [8]  
@@ -40,6 +43,7 @@ Proje-3
                        \
                         [3]
 * Altıncı sayı (6) eklenir; Root'tan küçük sola, 6>5 olduğu için 5'in sağına eklenir.
+                              
                               [7]
                             /     \
                          [5]       [8]  
@@ -49,7 +53,8 @@ Proje-3
                        \
                         [3]
 * Yedinci sayı (0) eklenir; Root'tan küçük sola, 5'ten küçük tekrar sola, 0<1 olduğu için 1'in soluna eklenir.
-                             [7]
+                              
+                              [7]
                             /     \
                          [5]       [8]  
                         /    \
@@ -59,7 +64,8 @@ Proje-3
                   /     [3]
                 [0] 
 * Sekizinci sayı (8) eklenir; Root yani 9>7 olduğu için; Root'un sağına, 9>8 olduğu için 8'in sağına eklenir.
-                             [7]
+                             
+                              [7]
                             /    \
                          [5]      [8]  
                         /    \       \
@@ -69,6 +75,7 @@ Proje-3
                   /     [3]
                 [0] 
 * Dokuzuncu sayı (4) eklenir; Root'tan küçük sola, 5'ten küçük tekrar sola; 4>1 olduğu için 1'in sağına, 4>3 olduğu için 3'ün sağına eklenir.
+                              
                               [7]
                             /    \
                          [5]      [8]  
@@ -80,7 +87,8 @@ Proje-3
                 [0]        \
                             [4]
 * Onuncu sayı (2) eklenir; Root'tan küçük sola, 5'ten küçük tekrar sola; 2>1 olduğu için 1'in sağına, 2<3 olduğu için 3'ün soluna eklenir.
-                                [7]
+                              
+                              [7]
                             /    \
                          [5]      [8]  
                         /    \       \
